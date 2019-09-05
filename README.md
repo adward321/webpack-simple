@@ -1,2 +1,2 @@
 # webpack-simple
-simple webpack
+## 实现一个简版的webpack,仅供练习
